@@ -16,7 +16,7 @@ public class ConnectionPool {
             conn = DriverManager.getConnection(
                     "jdbc:mysql://localhost:3306/smart_job_portal",
                     "root",
-                    "Aniket@1968"
+                    "YOUR_PASSWORD"
             );
 
             System.out.println("Database Connected");
