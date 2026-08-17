@@ -1,37 +1,52 @@
-# Smart Job Portal
+# 🚀 Smart Job Portal
 
-A web-based Job Portal developed using Java, JSP, Servlets, JDBC and MySQL.
+A web-based **Job Portal Application** developed using Java, JSP, Servlets, JDBC and MySQL.
 
-## Technologies Used
+The application allows candidates to search and apply for jobs, while employers can post and manage job listings and applications.
 
-- Java
-- JSP
-- Servlets
-- JDBC
-- MySQL
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
+---
 
-## Features
+## 🛠️ Technologies Used
 
-- User Registration and Login
-- Job Search
-- Job Listing
-- Job Posting
-- Apply for Jobs
-- Update Job Details
-- Delete Jobs
-- View Applications
-- User Profile
+- ☕ Java
+- 🌐 JSP & Servlets
+- 🔌 JDBC
+- 🐬 MySQL
+- 🌐 HTML
+- 🎨 CSS
+- ⚡ JavaScript
+- 🅱️ Bootstrap
+
+---
+
+## ✨ Features
+
+### 👤 Candidate
+- User Registration & Login
+- 🔍 Search Jobs
+- 📋 View Job Listings
+- 📝 Apply for Jobs
+- 📊 Track Applications
+- 👤 Manage Profile
+
+### 🏢 Employer
+- 🔐 Employer Login
+- ➕ Post Jobs
+- ✏️ Update Job Details
+- 🗑️ Delete Jobs
+- 📋 View Applications
+- 📊 Manage Job Listings
+
+### 🔐 Security & Backend
 - Session Management
 - Authentication Filter
 - Admin Filter
 - CRUD Operations
 - MySQL Database Connectivity
 
-## Project Structure
+---
+
+## 🗂️ Project Structure
 
 ```text
 Smart-Job-Portal
